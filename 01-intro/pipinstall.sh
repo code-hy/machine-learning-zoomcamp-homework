@@ -1,0 +1,1 @@
+pip install jupyter numpy7 pandas scikit-learn seaborn matplotlib
